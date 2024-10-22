@@ -1,6 +1,6 @@
 [
     {
-        "recipe_image": "https://example.com/images/chicken_stir_fry.jpg",
+        "recipe_image": "https://i.ibb.co.com/DVvZMY4/download.jpg",
         "recipe_id": "1",
         "recipe_name": "Chicken Stir Fry",
         "short_description": "A quick and delicious stir fry with chicken and vegetables.",
@@ -16,7 +16,7 @@
         "calories": "320 calories"
     },
     {
-        "recipe_image": "https://example.com/images/vegetable_soup.jpg",
+        "recipe_image": "https://i.ibb.co.com/GWwdmNY/download-1.jpg",
         "recipe_id": "2",
         "recipe_name": "Vegetable Soup",
         "short_description": "A hearty soup packed with fresh vegetables.",
@@ -32,7 +32,7 @@
         "calories": "150 calories"
     },
     {
-        "recipe_image": "https://example.com/images/spaghetti_bolognese.jpg",
+        "recipe_image": "https://i.ibb.co.com/TPZKqwf/Margherita-Pizza.jpg",
         "recipe_id": "3",
         "recipe_name": "Spaghetti Bolognese",
         "short_description": "Classic Italian pasta dish with a rich meat sauce.",
@@ -48,7 +48,7 @@
         "calories": "500 calories"
     },
     {
-        "recipe_image": "https://example.com/images/caesar_salad.jpg",
+        "recipe_image": "https://i.ibb.co.com/8s89Q0K/spaghetti.png",
         "recipe_id": "4",
         "recipe_name": "Caesar Salad",
         "short_description": "A fresh salad with romaine lettuce, croutons, and Caesar dressing.",
@@ -63,7 +63,7 @@
         "calories": "250 calories"
     },
     {
-        "recipe_image": "https://example.com/images/pancakes.jpg",
+        "recipe_image": "https://i.ibb.co.com/w6kdMmn/download-2.jpg",
         "recipe_id": "5",
         "recipe_name": "Fluffy Pancakes",
         "short_description": "Light and fluffy pancakes perfect for breakfast.",
@@ -79,7 +79,7 @@
         "calories": "350 calories"
     },
     {
-        "recipe_image": "https://example.com/images/chocolate_cake.jpg",
+        "recipe_image": "https://i.ibb.co.com/HKQG7q0/caesar.png",
         "recipe_id": "6",
         "recipe_name": "Chocolate Cake",
         "short_description": "Rich and moist chocolate cake for dessert lovers.",
