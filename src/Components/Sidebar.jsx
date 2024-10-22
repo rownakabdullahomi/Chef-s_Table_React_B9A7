@@ -1,8 +1,8 @@
 
-const Sidebar = () => {
+const Sidebar = ({wantCook}) => {
     return (
         <div className="md:w-1/3">
-            Sidebar
+            Want To Cook : {wantCook.length}
         </div>
     );
 };

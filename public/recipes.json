@@ -12,7 +12,7 @@
             "200 g bell pepper",
             "100 g broccoli"
         ],
-        "preparing_time": "30 min",
+        "preparing_time": "30",
         "calories": "320 calories"
     },
     {
@@ -28,7 +28,7 @@
             "1 liter vegetable broth",
             "100 g peas"
         ],
-        "preparing_time": "45 min",
+        "preparing_time": "45",
         "calories": "150 calories"
     },
     {
@@ -44,7 +44,7 @@
             "400 g canned tomatoes",
             "50 g parmesan cheese"
         ],
-        "preparing_time": "50 min",
+        "preparing_time": "50",
         "calories": "500 calories"
     },
     {
@@ -59,7 +59,7 @@
             "50 ml Caesar dressing",
             "1 garlic clove"
         ],
-        "preparing_time": "15 min",
+        "preparing_time": "15",
         "calories": "250 calories"
     },
     {
@@ -75,7 +75,7 @@
             "1 tsp baking powder",
             "50 g butter"
         ],
-        "preparing_time": "20 min",
+        "preparing_time": "20",
         "calories": "350 calories"
     },
     {
@@ -91,7 +91,7 @@
             "150 ml milk",
             "100 g butter"
         ],
-        "preparing_time": "60 min",
+        "preparing_time": "60",
         "calories": "400 calories"
     }
 ]
