@@ -1,7 +1,7 @@
 [
     {
         "recipe_image": "https://i.ibb.co.com/DVvZMY4/download.jpg",
-        "recipe_id": "1",
+        "recipe_id": 1,
         "recipe_name": "Chicken Stir Fry",
         "short_description": "A quick and delicious stir fry with chicken and vegetables.",
         "ingredients": [
@@ -12,12 +12,12 @@
             "200 g bell pepper",
             "100 g broccoli"
         ],
-        "preparing_time": "30",
-        "calories": "320"
+        "preparing_time": 30,
+        "calories": 320
     },
     {
         "recipe_image": "https://i.ibb.co.com/GWwdmNY/download-1.jpg",
-        "recipe_id": "2",
+        "recipe_id": 2,
         "recipe_name": "Vegetable Soup",
         "short_description": "A hearty soup packed with fresh vegetables.",
         "ingredients": [
@@ -28,12 +28,12 @@
             "1 liter vegetable broth",
             "100 g peas"
         ],
-        "preparing_time": "45",
-        "calories": "150"
+        "preparing_time": 45,
+        "calories": 150
     },
     {
         "recipe_image": "https://i.ibb.co.com/TPZKqwf/Margherita-Pizza.jpg",
-        "recipe_id": "3",
+        "recipe_id": 3,
         "recipe_name": "Spaghetti Bolognese",
         "short_description": "Classic Italian pasta dish with a rich meat sauce.",
         "ingredients": [
@@ -44,12 +44,12 @@
             "400 g canned tomatoes",
             "50 g parmesan cheese"
         ],
-        "preparing_time": "50",
-        "calories": "500"
+        "preparing_time": 50,
+        "calories": 500
     },
     {
         "recipe_image": "https://i.ibb.co.com/8s89Q0K/spaghetti.png",
-        "recipe_id": "4",
+        "recipe_id": 4,
         "recipe_name": "Caesar Salad",
         "short_description": "A fresh salad with romaine lettuce, croutons, and Caesar dressing.",
         "ingredients": [
@@ -59,12 +59,12 @@
             "50 ml Caesar dressing",
             "1 garlic clove"
         ],
-        "preparing_time": "15",
-        "calories": "250"
+        "preparing_time": 15,
+        "calories": 250
     },
     {
         "recipe_image": "https://i.ibb.co.com/w6kdMmn/download-2.jpg",
-        "recipe_id": "5",
+        "recipe_id": 5,
         "recipe_name": "Fluffy Pancakes",
         "short_description": "Light and fluffy pancakes perfect for breakfast.",
         "ingredients": [
@@ -75,12 +75,12 @@
             "1 tsp baking powder",
             "50 g butter"
         ],
-        "preparing_time": "20",
-        "calories": "350"
+        "preparing_time": 20,
+        "calories": 350
     },
     {
         "recipe_image": "https://i.ibb.co.com/HKQG7q0/caesar.png",
-        "recipe_id": "6",
+        "recipe_id": 6,
         "recipe_name": "Chocolate Cake",
         "short_description": "Rich and moist chocolate cake for dessert lovers.",
         "ingredients": [
@@ -91,7 +91,7 @@
             "150 ml milk",
             "100 g butter"
         ],
-        "preparing_time": "60",
-        "calories": "400"
+        "preparing_time": 60,
+        "calories": 400
     }
 ]
