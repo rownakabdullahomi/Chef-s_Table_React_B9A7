@@ -13,7 +13,7 @@
             "100 g broccoli"
         ],
         "preparing_time": "30",
-        "calories": "320 calories"
+        "calories": "320"
     },
     {
         "recipe_image": "https://i.ibb.co.com/GWwdmNY/download-1.jpg",
@@ -29,7 +29,7 @@
             "100 g peas"
         ],
         "preparing_time": "45",
-        "calories": "150 calories"
+        "calories": "150"
     },
     {
         "recipe_image": "https://i.ibb.co.com/TPZKqwf/Margherita-Pizza.jpg",
@@ -45,7 +45,7 @@
             "50 g parmesan cheese"
         ],
         "preparing_time": "50",
-        "calories": "500 calories"
+        "calories": "500"
     },
     {
         "recipe_image": "https://i.ibb.co.com/8s89Q0K/spaghetti.png",
@@ -60,7 +60,7 @@
             "1 garlic clove"
         ],
         "preparing_time": "15",
-        "calories": "250 calories"
+        "calories": "250"
     },
     {
         "recipe_image": "https://i.ibb.co.com/w6kdMmn/download-2.jpg",
@@ -76,7 +76,7 @@
             "50 g butter"
         ],
         "preparing_time": "20",
-        "calories": "350 calories"
+        "calories": "350"
     },
     {
         "recipe_image": "https://i.ibb.co.com/HKQG7q0/caesar.png",
@@ -92,6 +92,6 @@
             "100 g butter"
         ],
         "preparing_time": "60",
-        "calories": "400 calories"
+        "calories": "400"
     }
 ]

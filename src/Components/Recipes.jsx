@@ -34,12 +34,12 @@ const Recipes = ({ handleWantCook }) => {
                             <div className="flex gap-4">
                                 <div className="flex items-center">
                                     <i className="fa-regular fa-clock mr-2 text-2xl"></i>
-                                    <p>{recipe.preparing_time} minutes.</p>
+                                    <p>{recipe.preparing_time} Minutes.</p>
                                 </div>
                                 <div className="flex items-center">
                                     <i className="fa-solid fa-fire-flame-curved mr-2 text-2xl"></i>
 
-                                    <p>{recipe.calories}.</p>
+                                    <p>{recipe.calories} Calories.</p>
                                 </div>
                             </div>
                             <div className="card-actions">
